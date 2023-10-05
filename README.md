@@ -3,10 +3,10 @@
 ## Оглавление
 [1. Описание проекта](https://https://github.com/eka23sokol/project_1_ds/tree/main//README.md#Описание-проекта)
 [2. Какой кейс решаем?](https://github.com/eka23sokol/project_1_ds/tree/main/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/eka23sokol/sf_data_science/tree/main/project_0/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/eka23sokol/sf_data_science/tree/main/project_0/project_0/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/eka23sokol/sf_data_science/tree/main/project_0/project_0/README.md#Результат)
-[6. Выводы](https://github.com/eka23sokol/sf_data_science/tree/main/project_0/project_0/README.md#Выводы)
+[3. Краткая информация о данных](https://github.com/eka23sokol/project_1_ds/tree/main/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/eka23sokol/project_1_ds/tree/main/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/eka23sokol/project_1_ds/tree/main/README.md#Результат)
+[6. Выводы](https://github.com/eka23sokol/project_1_ds/tree/main/README.md#Выводы)
 
 ### Описание проекта
 Проанализиоровать резюме с сайта HeadHunter, выявить признаки, влияющие на формирование примерного уровня заработной платы.
